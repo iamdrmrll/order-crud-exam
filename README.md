@@ -1,3 +1,12 @@
+# Order CRUD Exam
+
+CRUD Examination about Ordering
+
+## Features
+
+- Has validation
+- Constraint between tables
+- Model relationships
 
 ## Installation
 
